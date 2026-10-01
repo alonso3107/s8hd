@@ -1,5 +1,5 @@
 function saludo() {
-  return "Hola desde Lab s8hd";
+  return "Hola, versión A del laboratorio";
 }
 
 console.log(saludo());
