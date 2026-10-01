@@ -1,5 +1,5 @@
 function saludo() {
-  return "Hola, versión B del laboratorio";
+  return "Hola, versión A y versión B del laboratorio";
 }
 
 console.log(saludo());
